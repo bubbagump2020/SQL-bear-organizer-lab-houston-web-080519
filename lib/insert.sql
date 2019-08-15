@@ -1,0 +1,8 @@
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Mr. Chocolate", 3, "male", "brown", "sanguine", true)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Rowdy", 5, "male", "black", "hyper", true)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Tabitha", 21, "female", "black", "sanguine", true)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES  ("Sergeant Brown", 24, "male", "brown", "irritable" false) 
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Melissa", 15, "female", "red", "goofy", true)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Grinch", 8, "male", "red", "grumpy", false)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES ("Wendy", 29, "female", "brown", "lazy", true)
+INSERT INTO bears (name, age, gender. color, temperament, alive) VALUES (NULL, 28, "male", "brown", "hungry", true)
